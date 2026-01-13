@@ -33,6 +33,12 @@ and recommendations.
 - Expand operations in high-performing non-UK regions.
 - Align campaigns with seasonal demand peaks.
 
+## Dashboard Link
+The sales performance dashboard is implemented using a Jupyter Notebook
+and can be accessed here:
+
+- FUTURE_DS_01.ipynb
+
 ## Note
 All data used in this project has been anonymized and is intended for
 analytical demonstration purposes.
